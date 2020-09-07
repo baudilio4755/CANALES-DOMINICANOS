@@ -1,0 +1,296 @@
+#EXTM3U
+#EXTINF:0 tvg-chno="-1" radio="true" tvg-logo="https://2.bp.blogspot.com/-kYzsHZyzs9E/XArq6i2CVcI/AAAAAAAAhH8/abuIEQ6uo10k6PaFtSGtmBXNs1dWJbmpACLcBGAs/s200/Faro%2BVision.png" group-title="DOMINICANOS",FAROVISION
+https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w244609542.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60668.schedulesdirect.org" tvg-name="TELANTL" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="DOMINICANOS",TELEANTILLAS
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1029702216.m3u8ist_w460875019.m3u8
+
+#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/lujo%20vision.png",LUJO VISION
+https://5790d294af2dc.streamlock.net:443/8030/8030/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60667.schedulesdirect.org" tvg-name="CERTV" tvg-logo="https://i.imgur.com/PY4Nzef.png" group-title="DOMINICANOS",4RD 
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+
+#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/GRUPO%20TELEMICRO.jpg",TELEMICRO 
+http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1515
+
+#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/LUNA%20IPTV%209.png",LUNA IPTV
+https://video1.getstreamhosting.com:1936/8018/8018/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60657.schedulesdirect.org" tvg-name=" ANT7 " tvg-logo="https://1.bp.blogspot.com/-usJGZAFuGNc/WtVPVwFh5VI/AAAAAAAAeSQ/PQCO8fpsyL4dXNNrgdlv_67h-KLDDZvgwCPcBGAYYCw/s320/Antena7.png" group-title="DOMINICANOS",ANTENA 7 
+http://51.89.152.28/hls/alatina.m3u8
+
+
+#EXTINF:-1 tvg-ID="EPG123.60665.schedulesdirect.org" tvg-name="COLVISN"tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="DOMINICANOS",COLOR VISION HD 
+https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY1sBg23LLp24qbeDP2Ul_z4)/dm/3/x7gy059/d/live-3.m3u8
+
+
+#EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png",COLOR VISION
+http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1520
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="DOMINICANOS",MICROVISION
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID ="EPG123.46322.schedulesdirect.org" tvg-name="TELESISTEMA"tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/TELESISTEMA1.jpg" group-title="DOMINICANOS",TELESISTEMA
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-ODdqweEDT08/WpSgiynWxcI/AAAAAAAAcRc/YMGG81ZMAg8btoN_xz2-GkDR-EYYhy3NQCKgBGAs/s320/OTRA%2BBANDA%2BTV.jpg" group-title="DOMINICANOS",OTRA BANDA TV 
+https://5790d294af2dc.streamlock.net:443/8208/8208/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.79263.schedulesdirect.org" tvg-name="TECNTRO" tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/telecentro-13.jpg" group-title="DOMINICANOS",TELECENTRO 
+http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1514
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://emisoradominicana.net/imgtv/musavision.jpg" group-title="DOMINICANOS",MUSAVISION
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=214960482
+
+#EXTINF:-1 tvg-ID="EPG123.60663.schedulesdirect.org" tvg-name="DIG15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="DOMINICANOS",DIGITAL 15 
+
+http://51.89.152.28/hls/d15.m3u8
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICANOS",REDDY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://4.bp.blogspot.com/-EMgsShSzmyE/XZ92YrsG9DI/AAAAAAAAoVE/VNQiO-Y7s1sy9pGaGQpPuK4R9OOkyXulQCLcBGAsYHQ/s320/ATV%2BDominicana.jpg" group-title="DOMINICANOS",ATV DOMINICANA 
+https://5790d294af2dc.streamlock.net/8204/8204/chunklist_w1456757572.m3u8
+
+#EXTINF:-16.png" group-title="DOMINICANOS",BAJO TECHO TV 
+https://cdn4.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60660.schedulesdirect.org" tvg-name="CINEVSN" tvg-logo="https://4.bp.blogspot.com/-OyGda7x4ma0/WskGwhu7INI/AAAAAAAAdTg/m3iGx8lteugAxvbEtiFnQm7gqZoyLeAJQCLcBGAs/s200/Cinevision.jpg" group-title="DOMINICANOS",CINEVISION 19
+http://cinevision01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60674.schedulesdirect.org" tvg-name="NEXXOTV" tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/NEXXO%20TV.png" group-title="DOMINICANOS",NEXXO TV 
+http://tutvonline.is-by.us:1935/live/nexxotv/playlist.m3u8 
+
+#EXTINF:-1 tvg-ID="EPG123.60659.schedulesdirect.org" tvg-name="ANTNA21" tvg-logo="https://3.bp.blogspot.com/-IS50S2rpoQQ/Wxv_3RgadPI/AAAAAAAAepU/a8FNZGonxiccWT745zzz59skhlbZfis7ACLcBGAs/s320/Antena%2B21.jpg" group-title="DOMINICANOS",ANTNA 21
+http://51.89.152.28/hls/a21.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="DOMINICANOS",HILANDO FINO
+http://190.122.96.188:8888/http/009
+
+#EXTINF:-1 tvg-ID="EPG123.46996.schedulesdirect.org" tvg-logo="https://1.bp.blogspot.com/-x6z1tqYrgpM/WrudYi27YOI/AAAAAAAAdDg/SbztxSwknewPyaiJXj9GM-GccxZNcK5SwCPcBGAYYCw/s200/Telefuturo.png" group-title="DOMINICANOS", TELEFUTURO
+http://51.89.152.28/hls/telefuturo.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANDEL" tvg-logo="https://3.bp.blogspot.com/-yOUuOfjWcNU/XaTdbRAGB1I/AAAAAAAAoX0/glU0qnb_-5wEp4ARNvbc3EUkhLHXLHMWgCLcBGAsYHQ/s200/canaldelsol.png" group-title="DOMINICANOS", CANAL DEL SOL
+https://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+
+#EXTINF:1 tvg-chno="-1" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICANOS",CANAL 25
+http://190.122.96.188:8888/http/004
+
+#EXTINF:1 tvg-chno="-1" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="DOMINICANOS",VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1 tvg-id="EPG123.79316.schedulesdirect.org" tvg-logo="" group-title="DOMINICANOS",RNN 
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
+ 
+
+
+#EXTINF:-1 tvg-ID="EPG123.47524.schedulesdirect.org" tvg-name="IMPCTO" tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png" group-title="DOMINICANOS",TELEIMPACTO
+http://190.122.96.188:8888/http/013
+
+#EXTINF:-1 tvg-ID="EPG123.55847.schedulesdirect.org" tvg-name="TELEUNI" tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="DOMINICANOS",TELEUNIVERSO
+https://cdn4.hostlagarto.com:8081/teleuniverso/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-IxLrIqz20sU/WsAcGiLZGdI/AAAAAAAAdO0/g5cLvjMQZSoe5zuDO7STLAik7K8QtWNwwCLcBGAs/s200/Carivisi%25C3%25B3n.png" group-title="DOMINICANOS",CARIVISION
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://cielotvcristiana.com/images/LOGO.png" group-title="DOMINICANOS",CIELO TV
+https://5e149b9159444.streamlock.net/cielotv/smil:cielotv.smil/chunklist_w904960413_b1300000_slen.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-N3U_0xKqcn8/Wr09H3EBXAI/AAAAAAAAdHk/u-HcbTtLGwAtgrHtUbKQeQiRdISSearcACLcBGAs/s200/La%2BVoz%2Bdel%2BTropico.jpg" group-title="DOMINICANOS",LA VOZ DEL TROPICO
+http://ss8.domint.net:2084/vttv_str/tropicotv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://yt3.ggpht.com/a/AATXAJwUyY-XNo1kHFsUWtBSd3RqCqLkoWAxljQwVw=s288-c-k-c0xffffffff-no-rj-mo" group-title="DOMINICANOS",SUPERC CANAL 33
+http://190.122.96.186:8888/http/005
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="DOMINICANOS",PH 
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="DOMINICANOS",ZTV 
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-1e0viy-XtK8/XYugidQtXhI/AAAAAAAAoBI/yv7hogt4R3EIPJHQ5zs7WI5PRSMrGV2rACLcBGAsYHQ/s200/Cotubanama.jpg" group-title="DOMINICANOS",COTUBANAMA TV
+https://cdn.hostlagarto.com:4445/cotubanamatv/cotubanamatv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60654.schedulesdirect.org" tvg-name="CDNDR" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="DOMINICANOS",CDN37  
+http://190.122.96.190:8888/http/009
+
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-6BYEEDw_wAw/WtJ1xA83FcI/AAAAAAAAeP0/aD9jbEI6PFEM1Jyhhe432iuvO5DCP-bEgCLcBGAs/s200/CDN%2BSportsMax.png" group-title="DOMINICANOS",CDN Sports MAX 
+http://51.89.152.28/hls/cdnsm.m3u8
+
+
+#EXTINF:-1 tvg-ID="EPG123.60669.schedulesdirect.org" tvg-name="CORAL39" tvg-logo="https://2.bp.blogspot.com/-8lEw_fBONXw/WpQl5Ae2B5I/AAAAAAAAEL8/KiqWOz0u1TYurDiUjZ5fd-XaI0xKYMvEQCLcBGAs/s1600/Coral%2B39en%2Bvivo.jpeg" group-title="DOMINICANOS",CORAL 39
+http://51.89.152.28/hls/coral39.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://i.imgur.com/5bBhi3Q.png" group-title="DOMINICANOS",YUNA VISION
+https://ss4.domint.net:3004/yv_str/yunavision/chunklist_w1085094437.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-5STGsNVR2E4/XiS098qA6FI/AAAAAAAAAhE/EsDeNTp1L6kVMv7umqoxcNjdyZzKJWLYwCLcBGAsYHQ/s200/entelevision.jpg" group-title="DOMINICANOS",EN TELEVISION
+https://panel.livetvvideo.net:1936/8068/8068/chunklist_w1960297770.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://4.bp.blogspot.com/-Ydoeseu7sw0/Wr16YgBvcqI/AAAAAAAAdKk/4BHSFm8KRNwrh9N_DuyPybfIsGkRJZW5wCLcBGAs/s200/RomanaTV.jpg" group-title="DOMINICANOS",ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://i.imgur.com/FsJesCO.png" group-title="DOMINICANOS",TELENOVISA
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="DOMINICANOS",TELEUNION
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.60671.schedulesdirect.org" tvg-name="TLRADAM" tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="DOMINICANOS",TRA 
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w1585767206.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123. 60672.schedulesdirect.org" tvg-name=" TNIDR " tvg-logo=" https://cancatv.000webhostapp.com/IMAGENES/tni.jpg" group-title="DOMINICANOS",TNI
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w674376833.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-jDnx_UBoAxc/XbYPP9ZeLUI/AAAAAAAAof0/T12fg7dCmhYfaQdAbCXV0a3z_jyrK257ACK4BGAYYCw/s1600/Ame47.jpg" group-title="DOMINICANOS",Ame 47 
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-5JBZ6ZO0ybk/XaS-xAYTF7I/AAAAAAAAoXA/u1OK-aVn_sQNM86uwWFBqLuk5Q-Uzo7hgCLcBGAsYHQ/s200/vegateve.jpg" group-title="DOMINICANOS",Vega Teve 
+https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w757952389.m3u8
+
+#EXTINF:-10 tvg-chno="-1" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png" group-title="DOMINICANOS",ComuniÃƒÂ³n TV 
+http://50.30.37.36:1935/live/stream/chunklist_w769879495.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://www.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="DOMINICANOS",Telenord 10 
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://2.bp.blogspot.com/-Q0m4KDQEH5U/W-Hn_Kd2GlI/AAAAAAAA0ts/u8nxCzAM-SoxGG54P5au_yT-aRMH-sObACK4BGAYYCw/s1600/Sin%2Bti%25CC%2581tulo-1.png" group-title="DOMINICANOS",Xtremo Channel
+http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w1106627689.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://cableondaoriental.com/images/logo_tv_new_md.png" group-title="DOMINICANOS",Onda TV 10 
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-mOciD5aHlwo/Xb5TFsL1SmI/AAAAAAAAopU/unnVQJON7w8mJirxLqke5A8SRhAanVMKwCPcBGAYYCw/s200/lunatv-1.jpg" group-title="DOMINICANOS",LunaTV 
+https://ss4.domint.net:3018/luna_str/lunatv/chunklist_w2030243406.m3u846308.m3u8
+
+#EXTINF:0 tvg-chno="-1" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="DOMINICANOS",ORBIT TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="DOMINICANOS",SuperTV55 
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="DOMINICANOS",LVM 
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1124872790.m3u8
+
+#EXTINF:0 tvg-chno="-1" tvg-logo="https://i.imgur.com/3L2r63a.png" group-title="DOMINICANOS",Telecontacto 57 
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png" group-title="DOMINICANOS",Zol106 
+https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8
+
+#EXTINF:0 tvg-chno="-1" tvg-logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JGHlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/s1600/Punta-Cana-TV-Logo.png" group-title="DOMINICANOS",Punta Cana TV 
+https://59f1cbe63db89.streamlock.net:1443/domart/_definst_/domart/chunklist_w571583605.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-_c3Wai2yuIY/Xl-e-HIk2VI/AAAAAAAAr5w/-vzqG9PJsg0DPrpR299YXH3m2u2BsQRvgCLcBGAsYHQ/s200/Boreal%2BTelevision.jpg" group-title="DOMINICANOS",Boreal 
+https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w557576109.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/--cx_dZWbpI8/XaTeSOMDyFI/AAAAAAAAoYA/X_MkqK1vsPMdCs3t1qoyu_kf85kN6rYigCLcBGAsYHQ/s1600/tvo%2Bdominicana.png" group-title="DOMINICANOS",tvo 
+https://rctvhdstream.com:8081/tvoromana/index.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-33hgi3XzfLk/XaTZchnPFzI/AAAAAAAAoXM/_4Dev7Cb_II0S6JPEDyqOShzfmInR42vACLcBGAsYHQ/s200/tvplata.png" group-title="DOMINICANOS",TV Plata 
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://domintapi.com/images/station/403.jpg" group-title="DOMINICANOS",Super7 TV 
+https://ss8.domint.net:3110/s7v_str/super7fm/chunklist_w1351896412.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-VEpnBW6ZCWY/Xa0m6c1S6sI/AAAAAAAAocY/9khpbMWS1bke-GvZaMyUngOgYu_aaD_tgCLcBGAsYHQ/s200/TeleCibao.png" group-title="DOMINICANOS",TeleCibao 
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/02/LOGO-Bellavision--341x400.png" group-title="DOMINICANOS",BELLA VISION
+https://cdn2.hostlagarto.com:4445/bellavision8/Bellavision8hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="EPG123.61566.schedulesdirect.org" tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title="DOMINICANOS",TELEMICRO
+rtmp://51.89.152.28:25462/hls/tmicro
+
+#EXTINF:0 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-_c2Z28j5sQA/XhB59HfiePI/AAAAAAAAAe4/ycyGPt-_KSARib1vmKMejN-MXD24sFQJwCK4BGAYYCw/s1600/musica-urbana.jpg" group-title="DOMINICANOS",URBANCRISTV 
+https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="DOMINICANOS",HM 
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-DPMAe_JC48w/XdyHHSJnPtI/AAAAAAAApFw/TzBuP7gd_JYi9hLFqzJ44jO3YqQYueoYACLcBGAsYHQ/s1600/CascaraTV%2B-%2BNavidad.png" group-title="DOMINICANOS",CascaraTV 
+https://cdn.hostlagarto.com:4445/cascaratv/cascaratv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-D_lFigaBPtk/XaTgkYjjOrI/AAAAAAAAoYg/jhIBm5DHRmwfcY1MmXWmJ5MNkMNnWnVDwCLcBGAsYHQ/s200/EL%2BPuerto%2BTV.png" group-title="DOMINICANOS",El Puerto TV 
+https://5983a4e15f07f.streamlock.net:8443/puertotv/puertotv/chunklist_w1822137763.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://buenatv.com/wp-content/uploads/2019/06/Captura.png" group-title="DOMINICANOS",Buena TV 
+https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
+
+#EXTINF:0 tvg-chno="-1" tvg-logo="http://sitv.com.do/imgs/sitv.png" group-title="DOMINICANOS",SiTV 
+http://190.122.104.221/Player/sitv.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="DOMINICANOS",Telenord 12 
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title="DOMINICANOS",Telenord 8 
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://4.bp.blogspot.com/-7GZMQfodBOQ/XcOYkLbSoNI/AAAAAAAAo98/E5O3UITgOtcu2K3ur-VBbnJANI4O6LRCgCLcBGAsYHQ/s200/TV%2BCotui.png" group-title="DOMINICANOS",TV Cotui 
+http://74.108.36.101:1935/tvcotui/tvcotui/chunklist_w2066250848.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="DOMINICANOS",Telemilenio 
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/WMS-HD.png" group-title="DOMINICANOS",WMS 
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-YqYhmjHrsb4/Xl3aatit6oI/AAAAAAAAr5c/FJv8GmwtwW0W_ul7LVoEVeV6RJfBJg1qACLcBGAsYHQ/s200/AkiTV.jpeg" group-title="DOMINICANOS",Aki TV 
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-iJHmX7auF-c/XArdMh8rORI/AAAAAAAAhGs/q9iCbPVOEnISDn8aVb2c_V-HACM7yhEQwCLcBGAs/s200/CTN.png" group-title="DOMINICANOS",CTN 
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1020470609.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="DOMINICANOS",GDM Estudio TV
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-WKLyQ7tVoAE/XbxlpEBBY-I/AAAAAAAAomI/sGnNfLJRNTEtG52F_Pj2M1NBihRMCjKagCLcBGAsYHQ/s200/Teletur%2B%2528RD%2529.png" group-title="DOMINICANOS",Teletur
+https://cdn.hostlagarto.com:4445/teletur/teletur.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/MORROTV-300x194.jpg" group-title="DOMINICANOS",Morro Tv 
+http://cm.hostlagarto.com:8081/morrotv/Morrotv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-iEZHkniFo-c/XZrABaV7oJI/AAAAAAAAoTM/bbg2j4BvRmcwUtQsOR6RgfcmFtFqN97wACLcBGAsYHQ/s200/Television%2Bdel%2BEste.jpg" group-title="DOMINICANOS",TelevisiÃƒÂ³n del Este 
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://colimdotv.com/logo.fw.png" group-title="DOMINICANOS",ColimdoTV
+https://5d4a00b8a0738.streamlock.net/8018/8018/chunklist_w1996542863.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://pbs.twimg.com/profile_images/1167313632/MayimbeTV.jpg" group-title="DOMINICANOS",MayimbeTV 
+http://67.205.141.212:25461/test/test1234/16
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-dxFegqrXFoY/XZtMMmjr0bI/AAAAAAAAoTo/Xq_4fLLVDFoWDp04syQ_1zLss5pRDwDKACLcBGAsYHQ/s200/Telever%2BCanal%2B12.png" group-title="DOMINICANOS",Telever 
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://3.bp.blogspot.com/-tc2iZpkTiAM/Wsf6ritbEnI/AAAAAAAAdRM/4BhFz3ErjfAq1vJry37Ut_rhbq02gRWhwCLcBGAs/s1600/CanaTV.png" group-title="DOMINICANOS",CanaTV 
+https://cdn2.hostlagarto.com:4445/canavision/canavisiontv/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-_meL7KqO3IA/Wr0zrd9-kJI/AAAAAAAAdHI/NTLkovpii18Soqad4KVlpQXCgG_WuicqACLcBGAs/s200/Telebendicion.png" group-title="DOMINICANOS",TeleBendicion 
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="EPG123.47524.schedulesdirect.org" tvg-name="IMPCTO" tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png" group-title="DOMINICANOS",Teleimpacto
+http://190.122.96.188:8888/http/013
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-la6MeSVFxmk/XAXXrfNoYjI/AAAAAAAAhFk/r92B43J8ijwtrfWJeBHGB_w6PV0qzPPPACLcBGAs/s200/FuegoTV.png" group-title="DOMINICANOS",FuegoTV 
+http://184.173.181.2:1935/8020/8020/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-j2Kg0bt8ois/XbZOU6ynT3I/AAAAAAAAogs/6LgMAPFiazIF6awxgbbyOQHFXTOPDAcvgCLcBGAsYHQ/s200/CLC%2B-%2BCarribean%2BLandscape%2BChannel.png" group-title="DOMINICANOS",CLC.travel 
+http://castv10.plugstreaming.com:1935/clc/clc/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="http://2.bp.blogspot.com/-uMNzpR4LofY/VqGtPypLbCI/AAAAAAAAWDo/1bVMJJz9DxU/s1600-r/tvluz.png" group-title="DOMINICANOS",TVLuz 
+https://streamingv2.shoutcast.com/la-luz-887-fm
+
+#EXTINF:-1 tvg-ID="EPG123.60665.schedulesdirect.org" tvg-name="COLVISN"tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="DOMINICANOS",COLOR VISION
+http://51.89.152.28/hls/color.m3u8
+
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-BzvXb4j5pws/XmgirO5wc_I/AAAAAAAAsLw/-cIPQNUW8ewLI0lpUZn_qPoOMtOJkhzmQCLcBGAsYHQ/s200/yazztv.jpg" group-title="DOMINICANOS",YazzTV 
+https://player.castr.io/live_141e63f0f28c11e980c119a900491335
+
+
+
