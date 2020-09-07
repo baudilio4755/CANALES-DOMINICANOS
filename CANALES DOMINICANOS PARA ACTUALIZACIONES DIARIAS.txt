@@ -22,8 +22,7 @@ http://51.89.152.28/hls/alatina.m3u8
 
 
 #EXTINF:-1 tvg-ID="EPG123.60665.schedulesdirect.org" tvg-name="COLVISN"tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="DOMINICANOS",COLOR VISION HD 
-https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY1sBg23LLp24qbeDP2Ul_z4)/dm/3/x7gy059/d/live-3.m3u8
-
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4irxMbzAH6a3znQbrzSK_Q)/dm/3/x7gy059/d/live-3.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png",COLOR VISION
 http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1520
