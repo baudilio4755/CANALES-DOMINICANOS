@@ -12,7 +12,7 @@ https://5790d294af2dc.streamlock.net:443/8030/8030/playlist.m3u8
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/GRUPO%20TELEMICRO.jpg",TELEMICRO 
-http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1515
+http://51.89.152.28/hls/tmicro.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/LUNA%20IPTV%209.png",LUNA IPTV
 https://video1.getstreamhosting.com:1936/8018/8018/playlist.m3u8
@@ -25,7 +25,7 @@ http://51.89.152.28/hls/alatina.m3u8
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4irxMbzAH6a3znQbrzSK_Q)/dm/3/x7gy059/d/live-3.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png",COLOR VISION
-http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1520
+http://51.89.152.28/hls/color.m3u8
 
 #EXTINF:-1 tvg-chno="-1" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="DOMINICANOS",MICROVISION
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
@@ -44,8 +44,9 @@ http://interlatins.es:8691/vDM74JzzQm/yNNUfMHpER/1514
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=214960482
 
 #EXTINF:-1 tvg-ID="EPG123.60663.schedulesdirect.org" tvg-name="DIG15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="DOMINICANOS",DIGITAL 15 
-
 http://51.89.152.28/hls/d15.m3u8
+
+
 #EXTINF:-1 tvg-chno="-1" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICANOS",REDDY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
