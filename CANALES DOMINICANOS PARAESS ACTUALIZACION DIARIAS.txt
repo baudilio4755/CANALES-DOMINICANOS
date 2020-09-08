@@ -80,7 +80,7 @@ http://190.122.96.188:8888/http/004
 #EXTINF:1 tvg-chno="-1" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="DOMINICANOS",VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 
-#EXTINF:-1 tvg-id="EPG123.79316.schedulesdirect.org" tvg-logo="" group-title="DOMINICANOS",RNN 
+#EXTINF:-1 tvg-id="EPG123.79316.schedulesdirect.org" tvg-logo="https://github.com/baudilio4755/IMAGENES/blob/master/RNN.jpg" group-title="DOMINICANOS",RNN 
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
  
 
