@@ -21,13 +21,13 @@ https://video1.getstreamhosting.com:1936/8018/8018/playlist.m3u8
 http://51.89.152.28/hls/alatina.m3u8
 
 
-#EXTINF:-1 tvg-ID="EPG123.60665.schedulesdirect.org" tvg-name="COLVISN"tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="DOMINICANOS",COLOR VISION HD 
+#EXTINF:-1 tvg-ID="EPG123.60665.schedulesdirect.org" tvg-name="COLVISN"tvg-logo="https://drive.google.com/file/d/1RyUw9v9nD2Pn8n8fqzEg65Z_R-n16KRp/view?usp=sharing" group-title="DOMINICANOS",COLOR VISION HD 
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4irxMbzAH6a3znQbrzSK_Q)/dm/3/x7gy059/d/live-3.m3u8
 
 #EXTINF:-1 group-title="DOMINICANOS" tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png",COLOR VISION
 http://51.89.152.28/hls/color.m3u8
 
-#EXTINF:-1 tvg-chno="-1" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="DOMINICANOS",MICROVISION
+#EXTINF:-1 tvg-chno="-1" tvg-logo="https://drive.google.com/file/d/13D5SL8TzmBwvOdIa0DD1XNN4ZAhBB44M/view?usp=sharing" group-title="DOMINICANOS",MICROVISION
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID ="EPG123.46322.schedulesdirect.org" tvg-name="TELESISTEMA"tvg-logo="https://cancatv.000webhostapp.com/IMAGENES/TELESISTEMA1.jpg" group-title="DOMINICANOS",TELESISTEMA
@@ -45,7 +45,6 @@ https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesess
 
 #EXTINF:-1 tvg-ID="EPG123.60663.schedulesdirect.org" tvg-name="DIG15" tvg-logo="https://3.bp.blogspot.com/-BFq_FKlhvRA/WtOfy8LTBdI/AAAAAAAAeRQ/BpsHhns7Utsm_822M_JlyajhSV0gapCHgCLcBGAs/s200/Digital%2B15.jpg" group-title="DOMINICANOS",DIGITAL 15 
 http://51.89.152.28/hls/d15.m3u8
-
 
 #EXTINF:-1 tvg-chno="-1" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICANOS",REDDY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
@@ -89,7 +88,7 @@ https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
 #EXTINF:-1 tvg-ID="EPG123.47524.schedulesdirect.org" tvg-name="IMPCTO" tvg-logo="https://teleimpacto52.com/wp-content/uploads/2018/12/logofull.png" group-title="DOMINICANOS",TELEIMPACTO
 http://190.122.96.188:8888/http/013
 
-#EXTINF:-1 tvg-ID="EPG123.55847.schedulesdirect.org" tvg-name="TELEUNI" tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="DOMINICANOS",TELEUNIVERSO
+#EXTINF:-1 tvg-ID="EPG123.55847.schedulesdirect.org" tvg-name="TELEUNI" tvg-logo="https://drive.google.com/file/d/1TUEe6qrwXbK7glM6CnvfBU0uTb3IGd61/view?usp=sharing" group-title="DOMINICANOS",TELEUNIVERSO
 https://cdn4.hostlagarto.com:8081/teleuniverso/tracks-v1a1/mono.m3u8
 
 
@@ -144,7 +143,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
 #EXTINF:-1 tvg-ID="EPG123.60671.schedulesdirect.org" tvg-name="TLRADAM" tvg-logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png" group-title="DOMINICANOS",TRA 
 https://ss4.domint.net:3008/tra_str/canal45/chunklist_w1585767206.m3u8
 
-#EXTINF:-1 tvg-ID="EPG123. 60672.schedulesdirect.org" tvg-name=" TNIDR " tvg-logo=" https://cancatv.000webhostapp.com/IMAGENES/tni.jpg" group-title="DOMINICANOS",TNI
+#EXTINF:-1 tvg-ID="EPG123. 60672.schedulesdirect.org" tvg-name=" TNIDR " tvg-logo=" https://drive.google.com/file/d/1jpYxPJZm53k7MeIUFIdrOPSR8y6rUynw/view?usp=sharing" group-title="DOMINICANOS",TNI
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w674376833.m3u8
 
 #EXTINF:-1 tvg-chno="-1" tvg-logo="https://2.bp.blogspot.com/-jDnx_UBoAxc/XbYPP9ZeLUI/AAAAAAAAof0/T12fg7dCmhYfaQdAbCXV0a3z_jyrK257ACK4BGAYYCw/s1600/Ame47.jpg" group-title="DOMINICANOS",Ame 47 
