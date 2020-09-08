@@ -286,7 +286,7 @@ http://castv10.plugstreaming.com:1935/clc/clc/playlist.m3u8
 https://streamingv2.shoutcast.com/la-luz-887-fm
 
 #EXTINF:-1 tvg-ID="EPG123.60665.schedulesdirect.org" tvg-name="COLVISN"tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title="DOMINICANOS",COLOR VISION
-http://51.89.152.28/hls/color.m3u8
+
 
 #EXTINF:-1 tvg-chno="-1" tvg-logo="https://1.bp.blogspot.com/-BzvXb4j5pws/XmgirO5wc_I/AAAAAAAAsLw/-cIPQNUW8ewLI0lpUZn_qPoOMtOJkhzmQCLcBGAsYHQ/s200/yazztv.jpg" group-title="DOMINICANOS",YazzTV 
 https://player.castr.io/live_141e63f0f28c11e980c119a900491335
